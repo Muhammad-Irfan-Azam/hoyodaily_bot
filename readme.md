@@ -22,6 +22,20 @@ No more forgetting to check in - just run and AFK 😎
 
 ## 🖥️ How to Use
 
+If you don't have Python installed, just download and run the .exe version of this bot:
+
+👉 Download Hoyodaily Bot .exe from the Releases tab.
+
+First run:
+
+1. Run the app and manually log in within 60 seconds
+2. Your session cookies will be saved (no need to log in again next time)
+3. The bot will automatically claim daily rewards for supported games
+
+---
+
+## 🧪 Manual Run (Python Required)
+
 1. Launch `main.py` and **log in manually within 60 seconds**
 2. Your session cookies will be saved automatically
 3. After that, the bot will log in silently and auto-check-in
