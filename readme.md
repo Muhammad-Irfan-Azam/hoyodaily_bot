@@ -66,6 +66,22 @@ pip install -r requirements.txt
 ```
 ---
 
+## 🧰 Tech Stack
+
+Language: Python 3.12
+
+Automation: Selenium, PyAutoGUI
+
+GUI Image Processing: Pillow
+
+Packaging: PyInstaller (to create .exe)
+
+Platform: Windows 11
+
+Task Automation: Windows Task Scheduler
+
+---
+
 ## 🧠 Notes
 
 tiles/ folder stores all image references for clickable rewards
